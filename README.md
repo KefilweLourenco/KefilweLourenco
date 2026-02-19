@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou Kefilwe Lourenço 👋
 
-<!--
-**KefilweLourenco/KefilweLourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação com foco em fundamentos sólidos, lógica de programação e construção de projetos estruturados.  
+Atualmente aprofundando meus conhecimentos em JavaScript FullStack e organização de código.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Formação Atual
+
+- 🎓 Programa FullStack JavaScript – Generation Brasil  
+- 📘 JavaScript do Básico ao Avançado (com Node.js e projetos) – Udemy  
+- 🧠 Foco em lógica de programação, estruturas e boas práticas
+
+---
+
+## 📚 Projetos de Fundamentos Web
+
+Projetos desenvolvidos durante meus estudos iniciais em HTML e CSS, representando o início da minha jornada na área:
+
+- 🔹 [Minha Primeira Página em HTML](https://github.com/KefilweLourenco/Minha-primeira-pagina-em-HTML)
+- 🔹 [Formulário HTML + CSS](https://github.com/KefilweLourenco/Formulario-HTML-CSS)
+- 🔹 [Estrutura Básica de CSS](https://github.com/KefilweLourenco/Estrutura-Basica-de-CSS)
+
+Esses projetos mostram minha evolução na estruturação de páginas, organização de código e entendimento da base do desenvolvimento web.
+
+---
+
+## 🚀 Em Evolução
+
+Atualmente desenvolvendo exercícios e projetos com foco em:
+
+- Estruturas de programação em JavaScript  
+- Manipulação de dados  
+- Organização de projetos com Git e GitHub  
+- Construção de base para aplicações web mais complexas
+
+---
+
+## 🎯 Objetivo
+
+Construir uma base técnica consistente para atuar como desenvolvedor FullStack, unindo lógica, estrutura e organização de código a projetos práticos e escaláveis.
+
+---
+
+📌 Este perfil documenta minha evolução como desenvolvedor.
