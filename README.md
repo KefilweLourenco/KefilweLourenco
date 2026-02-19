@@ -1,4 +1,4 @@
-# Olá, eu sou Kefilwe Lourenço 👋
+# Olá, eu sou Kefilwe Lourenço 
 
 Desenvolvedor em formação com foco em fundamentos sólidos, lógica de programação e construção de projetos estruturados.  
 Atualmente aprofundando meus conhecimentos em JavaScript FullStack e organização de código.
@@ -36,7 +36,7 @@ Atualmente desenvolvendo exercícios e projetos com foco em:
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Construir uma base técnica consistente para atuar como desenvolvedor FullStack, unindo lógica, estrutura e organização de código a projetos práticos e escaláveis.
 
