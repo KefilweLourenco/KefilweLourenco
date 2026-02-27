@@ -17,16 +17,14 @@ Atualmente aprofundando meus estudos em **JavaScript e desenvolvimento Full-Stac
 
 ## Projetos em destaque
 
-Repositórios que representam minha evolução prática nos estudos de programação:
-
-- **Primeiros Exercícios em Portugol**  
+- [Primeiros Exercícios em Portugol](https://github.com/KefilweLourenco/Primeiros-Exercicios-no-Portugol)  
   Exercícios focados em lógica de programação e construção do raciocínio computacional.
 
-- **aula_git**  
-  Estudos e práticas de versionamento de código com Git, incluindo organização de repositórios e fluxo básico de trabalho.
+- [aula_git](https://github.com/KefilweLourenco/aula_git)  
+  Estudos e práticas de versionamento de código com Git.
 
-- **Projetos Udemy - Exercícios**  
-  Exercícios desenvolvidos durante curso de HTML e fundamentos web, reforçando estruturação de páginas e boas práticas iniciais.
+- [Projetos Udemy — Exercícios](https://github.com/KefilweLourenco/Projetos-Udemy-Exercicios)  
+  Exercícios desenvolvidos durante curso de HTML e fundamentos web.
 
 ---
 
