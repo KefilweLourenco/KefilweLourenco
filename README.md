@@ -25,7 +25,7 @@ Repositórios que representam minha evolução prática nos estudos de programa�
 - **aula_git**  
   Estudos e práticas de versionamento de código com Git, incluindo organização de repositórios e fluxo básico de trabalho.
 
-- **Projetos Udemy — Exercícios**  
+- **Projetos Udemy - Exercícios**  
   Exercícios desenvolvidos durante curso de HTML e fundamentos web, reforçando estruturação de páginas e boas práticas iniciais.
 
 ---
