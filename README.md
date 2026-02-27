@@ -1,46 +1,56 @@
-# Olá, eu sou Kefilwe Lourenço 👋🏽
+# Olá, eu sou Kefilwe Lourenço 👋🏾
 
+Estudante de desenvolvimento web e Psicologia, interessado na interseção entre **tecnologia, comportamento humano e neurociência**.
 
-Desenvolvedor em formação com foco em fundamentos sólidos, lógica de programação e construção de projetos estruturados.  
-Atualmente aprofundando meus conhecimentos em JavaScript FullStack e organização de código.
-
----
-
-## 💻 Formação Atual
-
-- 🎓 Programa FullStack JavaScript – Generation Brasil  
-- 📘 JavaScript do Básico ao Avançado (com Node.js e projetos) – Udemy  
-- 🧠 Foco em lógica de programação, estruturas e boas práticas
+Atualmente aprofundando meus estudos em **JavaScript e desenvolvimento Full-Stack**, com foco em fundamentos sólidos, lógica de programação e construção de projetos estruturados.
 
 ---
 
-## 📚 Projetos de Fundamentos Web
+## Formação atual
 
-Projetos desenvolvidos durante meus estudos iniciais em HTML e CSS, representando o início da minha jornada na área:
-
-- 🔹 [Minha Primeira Página em HTML](https://github.com/KefilweLourenco/Minha-primeira-pagina-em-HTML)
-- 🔹 [Formulário HTML + CSS](https://github.com/KefilweLourenco/Formulario-HTML-CSS)
-- 🔹 [Estrutura Básica de CSS](https://github.com/KefilweLourenco/Estrutura-Basica-de-CSS)
-
-Esses projetos mostram minha evolução na estruturação de páginas, organização de código e entendimento da base do desenvolvimento web.
+- Programa **FullStack JavaScript — Generation Brasil**
+- Curso **JavaScript do Básico ao Avançado (Node.js e projetos) - Udemy**
+- Graduação em **Psicologia**
+- Foco em lógica de programação, estruturas de dados e boas práticas
 
 ---
 
-## 🚀 Em Evolução
+## Projetos em destaque
+
+Repositórios que representam minha evolução prática nos estudos de programação:
+
+- **Primeiros Exercícios em Portugol**  
+  Exercícios focados em lógica de programação e construção do raciocínio computacional.
+
+- **aula_git**  
+  Estudos e práticas de versionamento de código com Git, incluindo organização de repositórios e fluxo básico de trabalho.
+
+- **Projetos Udemy — Exercícios**  
+  Exercícios desenvolvidos durante curso de HTML e fundamentos web, reforçando estruturação de páginas e boas práticas iniciais.
+
+---
+
+## Em evolução
 
 Atualmente desenvolvendo exercícios e projetos com foco em:
 
-- Estruturas de programação em JavaScript  
-- Manipulação de dados  
-- Organização de projetos com Git e GitHub  
-- Construção de base para aplicações web mais complexas
+- Estruturas de programação em JavaScript
+- Manipulação de dados
+- Lógica e resolução de problemas
+- Organização e versionamento com Git
 
 ---
 
-##  Objetivo
+## Objetivo profissional
 
-Construir uma base técnica consistente para atuar como desenvolvedor FullStack, unindo lógica, estrutura e organização de código a projetos práticos e escaláveis.
+Construir uma trajetória que integre **tecnologia e Psicologia**, explorando aplicações no campo da **neurociência, saúde mental digital e tecnologias inclusivas**, com foco em soluções que ampliem acesso, cuidado e compreensão do funcionamento humano.
 
 ---
 
-📌 Este perfil documenta minha evolução como desenvolvedor.
+## Interesses
+
+- Neurociência e comportamento
+- Tecnologia aplicada à saúde mental
+- Inclusão digital
+- Desenvolvimento web
+- Neurotecnologia e saúde mental digital
