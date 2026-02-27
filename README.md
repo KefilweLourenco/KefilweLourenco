@@ -8,7 +8,7 @@ Atualmente aprofundando meus estudos em **JavaScript e desenvolvimento Full-Stac
 
 ## Formação atual
 
-- Programa **FullStack JavaScript — Generation Brasil**
+- Programa **FullStack JavaScript - Generation Brasil**
 - Curso **JavaScript do Básico ao Avançado (Node.js e projetos) - Udemy**
 - Graduação em **Psicologia**
 - Foco em lógica de programação, estruturas de dados e boas práticas
