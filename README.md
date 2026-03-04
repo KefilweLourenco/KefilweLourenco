@@ -1,54 +1,93 @@
-# Olá, eu sou Kefilwe Lourenço 👋🏾
+Olá, eu sou Kefilwe Lourenço 👋🏾
 
-Estudante de desenvolvimento web e Psicologia, interessado na interseção entre **tecnologia, comportamento humano e neurociência**.
+Estudante de Desenvolvimento Web e Psicologia, interessado na interseção entre tecnologia, comportamento humano e neurociência.
 
-Atualmente aprofundando meus estudos em **JavaScript e desenvolvimento Full-Stack**, com foco em fundamentos sólidos, lógica de programação e construção de projetos estruturados.
+Atualmente aprofundando meus estudos em JavaScript e desenvolvimento Full-Stack, com foco em fundamentos sólidos, lógica de programação e construção de projetos estruturados.
 
----
+Formação atual
 
-## Formação atual
+FullStack JavaScript - Generation Brasil
 
-- Programa **FullStack JavaScript - Generation Brasil**
-- Curso **JavaScript do Básico ao Avançado (Node.js e projetos) - Udemy**
-- Graduação em **Psicologia**
-- Foco em lógica de programação, estruturas de dados e boas práticas
+JavaScript do Básico ao Avançado (Node.js e projetos) - Udemy
 
----
+Graduação em Psicologia
 
-## Projetos em destaque
+Foco atual em:
 
-- [Primeiros Exercícios em Portugol](https://github.com/KefilweLourenco/Primeiros-Exercicios-no-Portugol)  
-  Exercícios focados em lógica de programação e construção do raciocínio computacional.
+Lógica de programação
 
-- [aula_git](https://github.com/KefilweLourenco/aula_git)  
-  Estudos e práticas de versionamento de código com Git.
+Estruturas de dados
 
-- [Projetos Udemy — Exercícios](https://github.com/KefilweLourenco/Projetos-Udemy-Exercicios)  
-  Exercícios desenvolvidos durante curso de HTML e fundamentos web.
+Boas práticas de desenvolvimento
 
----
+Organização e versionamento com Git
 
-## Em evolução
+Projetos em destaque
+📘 Aula JavaScript - Generation
 
-Atualmente desenvolvendo exercícios e projetos com foco em:
+Repositório com exercícios e práticas desenvolvidas durante o bootcamp FullStack JavaScript da Generation.
 
-- Estruturas de programação em JavaScript
-- Manipulação de dados
-- Lógica e resolução de problemas
-- Organização e versionamento com Git
+Conteúdos praticados:
 
----
+Estruturas condicionais
 
-## Objetivo profissional
+Laços de repetição
 
-Construir uma trajetória que integre **tecnologia e Psicologia**, explorando aplicações no campo da **neurociência, saúde mental digital e tecnologias inclusivas**, com foco em soluções que ampliem acesso, cuidado e compreensão do funcionamento humano.
+Vetores e matrizes
 
----
+Lógica aplicada em JavaScript
 
-## Interesses
+🔗
+https://github.com/KefilweLourenco/Aula_JavaScript_Generation
 
-- Neurociência e comportamento
-- Tecnologia aplicada à saúde mental
-- Inclusão digital
-- Desenvolvimento web
-- Neurotecnologia e saúde mental digital
+🚀 Projetos Generation
+
+Projetos e atividades desenvolvidas durante o programa Generation Brasil, com foco em desenvolvimento Full-Stack e construção de lógica de programação.
+
+🔗
+https://github.com/KefilweLourenco/Aula_JavaScript_Generation
+
+💻 Projetos Udemy - Exercícios
+
+Exercícios desenvolvidos durante cursos de HTML, JavaScript e fundamentos do desenvolvimento web.
+
+🔗
+https://github.com/KefilweLourenco/Projetos-Udemy-Exercicios
+
+Em evolução
+
+Atualmente estudando e praticando:
+
+Estruturas de programação em JavaScript
+
+Manipulação de dados
+
+Lógica e resolução de problemas
+
+Organização de projetos com Git e GitHub
+
+Objetivo profissional
+
+Construir uma trajetória que integre tecnologia e Psicologia, explorando aplicações em:
+
+Neurociência
+
+Saúde mental digital
+
+Tecnologia aplicada ao cuidado psicológico
+
+Soluções tecnológicas inclusivas
+
+A meta é desenvolver ferramentas que ampliem acesso, cuidado e compreensão do funcionamento humano.
+
+Interesses
+
+Neurociência e comportamento
+
+Tecnologia aplicada à saúde mental
+
+Inclusão digital
+
+Desenvolvimento web
+
+Neurotecnologia
