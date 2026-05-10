@@ -1,10 +1,5 @@
 # Olá, eu sou o Kefilwe Lourenço 👋🏽
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KefilweLourenco&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KefilweLourenco&theme=radical&hide_border=true" alt="GitHub Streak" height="180px" />
-</p>
-
 ### 🚀 Sobre Mim
 
 - 💻 **Desenvolvedor Full Stack JavaScript** em formação pela **Generation Brasil**.
